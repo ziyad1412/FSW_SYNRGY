@@ -4,6 +4,7 @@ function sortCarByYearAscendingly(cars) {
 
   // Clone array untuk menghindari side-effect
   // Apa itu side effect?
+  // Dengan membuat clone, kita dapat melakukan operasi pengurutan tanpa memengaruhi array asli.
   const result = [...cars];
 
   // Tulis code-mu disini
