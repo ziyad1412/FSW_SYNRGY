@@ -2,6 +2,10 @@
 
 # Installation Guide
 
+![Gambar API](./ERD.png)
+
+# Installation Guide
+
 | Step          | Command                   | Description                                  |
 | ------------- | ------------------------- | -------------------------------------------- |
 | Install       | `npm install`             | Install required npm packages.               |
