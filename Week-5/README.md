@@ -1,8 +1,8 @@
 # Challenge 5 SYNRGY
 
-# Installation Guide
+# Car Database Schema
 
-![Gambar API](./ERD.png)
+![Gambar ERD](./ERD.png)
 
 # Installation Guide
 
